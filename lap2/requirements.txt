@@ -1,0 +1,23 @@
+Functional Requirements:
+
+- The system shall allow Office Managers to register dentists with a unique ID, first name, last name, contact phone number, email, and specialization.
+
+- The system shall allow Office Managers to enroll patients with their first name, last name, contact phone number, email, mailing address, and date of birth.
+
+- Patients shall be able to request appointments via an online form or by phone (handled externally, but the system processes online requests).
+
+- Office Managers shall be able to book appointments, triggering automatic confirmation emails to patients and dentists.
+
+- Dentists shall be able to log in to view their appointments, including patient details, date, time, and surgery location.
+
+- The system shall maintain surgery location details (name, address, telephone number).
+
+- Patients shall be able to log in to view their appointments and associated dentist details.
+
+- Patients shall be able to submit requests to cancel or reschedule appointments.
+
+- The system shall enforce a maximum of 5 appointments per dentist per week.
+
+- The system shall prevent patients with outstanding unpaid bills from requesting new appointments.
+
+
